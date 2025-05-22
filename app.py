@@ -1,3 +1,3 @@
 import streamlit as st
-st.set_page_config(page_title="Iris Dashboard App", layout="centered")
+st.set_page_config(page_title="Prediction", layout="centered")
 st.title("Hello, World!")
